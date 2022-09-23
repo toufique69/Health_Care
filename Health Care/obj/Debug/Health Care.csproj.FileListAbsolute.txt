@@ -1,0 +1,10 @@
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\bin\Debug\Health Care.exe.config
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\bin\Debug\Health Care.exe
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\bin\Debug\Health Care.pdb
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health Care.csprojResolveAssemblyReference.cache
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health_Care.Properties.Resources.resources
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health Care.csproj.GenerateResource.Cache
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health Care.exe
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health Care.pdb
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health_Care.Login.resources
+c:\users\toufique\documents\visual studio 2013\Projects\Health Care\Health Care\obj\Debug\Health_Care.Product.resources
